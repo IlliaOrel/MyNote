@@ -1,0 +1,9 @@
+<h1 class="main" >{{page.title}}
+                       <p id="txt">{{page.content}}</p>
+                    </h1>
+
+
+
+                    .DS_Store
+node_modules
+/dist
